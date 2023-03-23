@@ -1,4 +1,4 @@
-![logo](https://github.com/pragyananda/pragyananda/blob/main/Pragyanand%20saho.gif)
+<!-- ![logo](https://github.com/pragyananda/pragyananda/blob/main/Pragyanand%20saho.gif) -->
 <h1 align="center">Hi 👋, I'm Pragyanand There</h1>
 <h3 align="center">A passionate full stack developer from India</h3>
 <img src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif" alt="coding" align="right"srcset=""width="400">
