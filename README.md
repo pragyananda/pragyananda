@@ -5,7 +5,9 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pragyananda&label=Profile%20views&color=0e75b6&style=flat" alt="pragyananda" /> </p>
 [![](https://visitcount.itsvg.in/api?id=pragyananda&label=Profile%20Views&icon=0&pretty=false)](https://visitcount.itsvg.in)
 <p align="left"> <a href="https://twitter.com/jack6398665353" target="blank"><img src="https://img.shields.io/twitter/follow/jack6398665353?logo=twitter&style=for-the-badge" alt="jack6398665353" /></a> </p>
-
+<a href="https://visitcount.itsvg.in">
+  <img src="https://visitcount.itsvg.in/api?id=pragyananda&label=Profile%20Views&icon=0&pretty=false" />
+</a>
 - 🔭 I’m currently working on [Attendence project](https://github.com/pragyananda/attendance-system)
 
 - 🌱 I’m currently learning **Node.js,React.js,express.js,next.js,flutter,data science,power BI,Natural language processing etc.**
