@@ -2,8 +2,7 @@
 <h1 align="center">Hi 👋, I'm Pragyanand There</h1>
 <h3 align="center">A passionate full stack developer from India</h3>
 <img src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif" alt="coding" align="right"srcset=""width="400">
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=pragyananda&label=Profile%20views&color=0e75b6&style=flat" alt="pragyananda" /> </p>
-![](https://visitcount.itsvg.in/api?id=pragyananda&label=Profile%20Views&icon=0&pretty=false)(https://visitcount.itsvg.in)
+<p align="left"> <img src="https://visitcount.itsvg.in/api?id=pragyananda&label=Profile%20Views&icon=0&pretty=false" alt="pragyananda" /> </p>
 <p align="left"> <a href="https://twitter.com/jack6398665353" target="blank"><img src="https://img.shields.io/twitter/follow/jack6398665353?logo=twitter&style=for-the-badge" alt="jack6398665353" /></a> </p>
 
 - 🔭 I’m currently working on [Attendence project](https://github.com/pragyananda/attendance-system)
