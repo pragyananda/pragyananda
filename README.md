@@ -17,7 +17,7 @@
 
 - 📄 Know about my experiences [pragyananda.github.io/resume](pragyananda.github.io/resume)
 
-- ⚡ Fun fact **I am Funny**
+- 🎨 Sketching addicted you can check my sketches on [https://www.instagram.com/pragyanandsaho/](https://www.instagram.com/pragyanandsaho/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
