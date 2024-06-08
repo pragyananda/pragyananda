@@ -10,7 +10,7 @@
 
 - 👨‍💻 All of my projects are available at [pragyananda.github.io](pragyananda.github.io)
 
-- 💬 Ask me about **PHP,Django**
+- 💬 Ask me about **React, Node, Django, PHP**
 
 - 📫 How to reach me **pragyanandasaho@gmail.com**
 
