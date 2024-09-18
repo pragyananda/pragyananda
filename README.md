@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **Node.js, React.js, express.js, next. js, flutter,data science,Power BI,Natural language processing, etc.**
 
-- 👨‍💻 All of my projects are available at [[pragyananda.github.io](pragyananda.github.io)](https://pragyananda.github.io/)
+- 👨‍💻 All of my projects are available at [https://pragyananda.github.io/](https://pragyananda.github.io/)
 
 - 💬 Ask me about **React, Node, Django, PHP**
 
