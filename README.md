@@ -18,7 +18,7 @@
 
 - 🎨 Sketching addicted you can check my sketches on [https://www.instagram.com/pragyanandsaho/](https://www.instagram.com/pragyanandsaho/)
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Connect with me: </h3>
 <p align="left">
 <a href="https://dev.to/pragyanandasaho" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="pragyanandasaho" height="30" width="40" /></a>
 <a href="https://twitter.com/jack6398665353" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="jack6398665353" height="30" width="40" /></a>
