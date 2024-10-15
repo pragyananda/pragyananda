@@ -1,4 +1,4 @@
-<!-- ![logo](https://github.com/pragyananda/pragyananda/blob/main/Pragyanand%20saho.gif) -->
+[![An image of @pragyananda's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/pragyananda)](https://holopin.io/@pragyananda)
 <h1 align="center">Hi 👋, I'm Pragyanand There</h1>
 <img src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif" alt="coding" align="right"srcset=""width="400">
 <p align="left"> <img src="https://visitcount.itsvg.in/api?id=pragyananda&label=Profile%20Views&icon=0&pretty=false" alt="pragyananda" /> </p>
