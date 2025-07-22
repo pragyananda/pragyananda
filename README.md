@@ -14,7 +14,7 @@
 
 - 📫 How to reach me **pragyanandasaho@gmail.com**
 
-- 📄 Know about my experiences [pragyananda.github.io/resume](pragyananda.github.io/resume)
+- 📄 Know about my experiences [pragyanand.vercel.app](https://pragyanand.vercel.app/)
 
 - 🎨 Sketching addicted you can check my sketches on [https://www.instagram.com/pragyanandsaho/](https://www.instagram.com/pragyanandsaho/)
 
